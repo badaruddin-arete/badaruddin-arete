@@ -1,18 +1,12 @@
 # M. Badaruddin
+*Deciphering meaning within value-neutral computation*
 
-Menerjemahkan teknologi menjadi keputusan yang bermakna.
+---
 
-**Karya**
+Code is written as though it has no opinions. Yet every function decides something: what is counted, what is ignored, who is seen and who never enters the data.
 
-Eksplorasi yang menerjemahkan gagasan filsafat menjadi perangkat lunak yang dapat diperiksa.
+I am drawn to that quiet moment when a choice becomes so smooth that no one remembers it was a choice. Computation does not only process the world; it teaches us what to take as the world.
 
-- **[Peta Pemikiran Filsafat Teknologi](https://github.com/badaruddin-arete/peta-filsafat-teknologi)** ([demo](https://peta-filsafat-teknologi.lovable.app)): peta hubungan antar 12 pemikir dalam tiga tampilan (per tradisi, per pertanyaan, garis waktu). Setiap relasi dan posisi bersumber, tafsiran dibedakan dari klaim tekstual, dan aturannya dipaksakan oleh 32 tes otomatis.
-- **[Etika Bantuan (API)](https://github.com/badaruddin-arete/etika-bantuan-api)**: seleksi bantuan sosial dengan dua lensa etika, Bentham dan Kant, dengan keluaran yang dapat dijelaskan. FastAPI dan 69 tes.
-- **[Etika Bantuan (antarmuka)](https://github.com/badaruddin-arete/etika-bantuan-web)** ([demo](https://etika-bantuan-demo.lovable.app)): dasbor audit untuk API di atas.
+I follow no single doctrine. I move between the firmness of the machine and the ambiguity of life, asking what remains of the human when everything is made calculable.
 
-Karya-karya ini dibuat dengan bantuan AI; rinciannya tertulis di README setiap repositori. Hak cipta dilindungi.
-
-**Tautan**
-- [LinkedIn](https://www.linkedin.com/in/badaruddin-arete/)
-- [Substack](https://badaruddinarete.substack.com)
-- [ORCID](https://orcid.org/0009-0003-4546-5522)
+Perhaps the question was never how much we can compute, but what we recognize of ourselves in the result.
