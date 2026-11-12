@@ -1,7 +1,6 @@
 # M. Badaruddin
 *Deciphering meaning within value-neutral computation*
 
----
 
 Code is written as though it has no opinions. Yet every function decides something: what is counted, what is ignored, who is seen and who never enters the data.
 
